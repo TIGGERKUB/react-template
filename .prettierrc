@@ -1,0 +1,21 @@
+{
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true,
+    "importOrder": [
+        "react/(.*)$",
+        "^@mui/(.*)$",
+        "^pages/(.*)$",
+        "^common/(.*)$",
+        "^components/(.*)$",
+        "^api/(.*)$",
+        "^hooks/(.*)$",
+        "^utils/(.*)$",
+        "^[./]"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "importOrderGroupNamespaceSpecifiers": true,
+    "importOrderCaseInsensitive": true
+}
